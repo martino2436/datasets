@@ -4,6 +4,7 @@
 
 In the Learn SQL from Scratch project, you will be working with a table named `hacker_news` that contains stories from Hacker News since its launch in 2007. It has the following columns:
 
+- 'Allez l'OM!'
 - `title` - the title of the story
 - `user` - the user who submitted the story
 - `score` - the score of the story
@@ -13,3 +14,5 @@ In the Learn SQL from Scratch project, you will be working with a table named `h
 ---
 
 Thank you to Scott Bell at Hacker News for this dataset!
+
+Trying to understand the whole thing...
